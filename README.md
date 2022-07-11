@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magiskdev
-- 👀 I’m interested in React, Xamarin
+- 👀 I’m interested in React, TypeScript, Next.js
 
 <!---
 magiskdev/magiskdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
